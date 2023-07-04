@@ -1,5 +1,5 @@
 import XCTest
-@testable import fluent_timestamp
+@testable import FluentTimestamp
 
 final class fluent_timestampTests: XCTestCase {
     func testExample() throws {
