@@ -1,3 +1,3 @@
 # fluent-timestamp
 
-A description of this package.
+Add timestamp properties to Fluent's Model.
